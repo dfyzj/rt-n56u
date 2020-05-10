@@ -2,10 +2,10 @@
 
 #define BOARD_PID		"PSG712"
 #define BOARD_NAME		"PSG712"
-#define BOARD_DESC		"PHICOMM PSG712 Wireless Router"
-#define BOARD_VENDOR_NAME	"PHICOMM"
-#define BOARD_VENDOR_URL	"http://www.phicomm.com/"
-#define BOARD_MODEL_URL		"http://www.phicomm.com/"
+#define BOARD_DESC		"YXNEI PSG712 Wireless Router"
+#define BOARD_VENDOR_NAME	"YXNEI"
+#define BOARD_VENDOR_URL	"http://www.yxnei.com/"
+#define BOARD_MODEL_URL		"http://www.yxnei.com/"
 #define BOARD_BOOT_TIME		25
 #define BOARD_FLASH_TIME	120
 #undef BOARD_GPIO_BTN_RESET	1
